@@ -22,6 +22,6 @@ Assignment for the course DS200
 
 **c. Line Plot**
 
-![Trend in contribution of different sectors to total GDP from 1951-2012](images/fig1.png)
+![Trend in contribution of different sectors to total GDP from 1951-2012](images/fig3.png)
 
 **Observation:** The above line plot shows the trend in contribution of different sectors to the total GDP. This trend is not visible in box plot. From the above plot we see that over the years the contribution of agriculture sectors to GDP has declined while that of service sector has increased. The contribution of mining and quarring has almost remained constant over the years whereas the manufacturing and industrial sectors contibution has grown at a very low rate.
