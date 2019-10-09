@@ -1,4 +1,4 @@
-# ds200
+# DS200
 Assignment for the course DS200
 
 ## How to run
@@ -34,8 +34,10 @@ The datasets used for plotting the figures are present in the `data` directory. 
 ## Citations
 
 1. R&D Expenditure Per Capita and as Percentage of GDP for Selected Countries 2009 (in US$)
+
 Source : UIS, UNESCO (Website accessed on 11 August, 2013); World Development Indicators, The World Bank; * OECD Main S&T Indicators vol. 2011/2; Note: 1. # 2008; 2. % Estimate based on 2009-10 exchange rate, Economic Survey 2010-11.
 
 2. GDP of India and major Sectors of Economy, Share of each sector to GDP and Growth rate of GDP and other sectors of economy 1951-52 onward
+
 Source : CSO
 
