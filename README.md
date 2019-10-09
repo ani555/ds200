@@ -4,7 +4,7 @@ Assignment for the course DS200
 ## 
 
 ## Dataset
-The datasets used for plotting the figures are present in the `data` directory. The data is also available publicly at <data.gov.in>
+The datasets used for plotting the figures are present in the `data` directory. The data is also available publicly at <https://data.gov.in>
 
 ## R&D Expenditure Per Capita and as Percentage of GDP for Selected Countries 2009 (in US$)
 
